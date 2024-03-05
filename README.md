@@ -1,3 +1,3 @@
-# Basic Counter
+# Count Ease - Basic Counter
 
 Made using React
